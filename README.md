@@ -17,3 +17,14 @@ Then you can run...
 jupyter lab
 ```
 You should be ready to run the notebook in your newly created environment! Go through the customization blocks to change the directories and settings to your specifications. Happy plotting!
+
+## Recent updates...
+**Major Update 3/13/26**
+- New capability to use Level III files in addition to MRMS files
+  - Automatically download Level III files from Amazon S3 bucket
+- Separated plot customizations to aesthetic and data preferences to improve user experience
+- Added rotation variable to colorbar labels for aesthetic preferences
+- Added helpful custom colormaps
+- Modified Markdown comments to aid user experience
+- Added abililty to plot mode and median of latitude band in addition to mean
+- Separated download data into separate block to improve debugging and user experience
