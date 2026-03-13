@@ -24,6 +24,7 @@ You should be ready to run the notebook in your newly created environment! Go th
   - Automatically download Level III files from Amazon S3 bucket
 - Separated plot customizations to aesthetic and data preferences to improve user experience
 - Added rotation variable to colorbar labels for aesthetic preferences
+- Added longitude bucket variable to customize number of longitude buckets for Level III radial data
 - Added helpful custom colormaps
 - Modified Markdown comments to aid user experience
 - Added abililty to plot mode and median of latitude band in addition to mean
